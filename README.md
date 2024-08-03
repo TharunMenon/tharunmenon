@@ -10,8 +10,10 @@ Testing & Debugging: Experienced in using XCTest, Quick/Nimble, and various prof
 
 💡 Skills & Technologies:
 
-Languages: Swift, Objective-C /n
-Frameworks & Tools: SwiftUI, UIKit, CoreData, ARKit, URLSession, Alamofire, SQLite, Realm /n
+Languages: Swift, Objective-C  
+
+Frameworks & Tools: SwiftUI, UIKit, CoreData, ARKit, URLSession, Alamofire, SQLite, Realm  
+
 Development Tools: Xcode, Git, GitHub, Interface Builder, Instruments
 Testing: XCTest, Quick/Nimble, Snapshot Testing
 CI/CD: Jenkins, CircleCI, Fastlane, Bitrise
